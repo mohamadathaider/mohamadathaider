@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohamadathaider
+- 👋 Hi, I’m @mohamadathaider https://ch.linkedin.com/in/haidermohamad
 - 👀 I’m interested in ... getting a JOB :)
 
 <div class="badge-base LI-profile-badge" data-locale="de_DE" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="haidermohamad" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ch.linkedin.com/in/haidermohamad?trk=profile-badge">Mohamad Haider</a></div>
@@ -62,6 +62,7 @@ See credentialExternal link
 - 🌱 I’m currently learning ... alot :D 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+LinkedIN >> https://ch.linkedin.com/in/haidermohamad
 
 <!---
 mohamadathaider/mohamadathaider is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
