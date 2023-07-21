@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @mohamadathaider
 - 👀 I’m interested in ... getting a JOB :)
+
+<div class="badge-base LI-profile-badge" data-locale="de_DE" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="haidermohamad" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ch.linkedin.com/in/haidermohamad?trk=profile-badge">Mohamad Haider</a></div>
+
 - Licenses & Certifications
 CCSP Cert Prep: 1 Cloud Concepts, Architecture, and Design Graphic
 CCSP Cert Prep: 1 Cloud Concepts, Architecture, and Design
